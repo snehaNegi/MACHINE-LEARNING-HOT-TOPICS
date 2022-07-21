@@ -13,7 +13,9 @@ dimension features for each image. Select the optimum threshold to classify the 
 and report the classification accuracy on the test data. What is the best choice of K
 which gives the maximum separability ?
 
-**2.Speech Spectogram **
+
+
+[**2. Speech Spectogram**]
 
 DataSet used: speech_music_classification
 
