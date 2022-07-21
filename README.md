@@ -1,11 +1,11 @@
 # MACHINE-LEARNING-HOT-TOPICS
 
-**1. PCA and LDA implementation**
+[**1. PCA and LDA implementation**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/PCA%20and%20LDA%20implementation.ipynb) 
+
 
 DataSet used: emotion_classification
 
-**Our Task:** 
-
+**Our Task:**
 15 subject faces with happy/sad emotion are provided in the data. Each image is of
 100x100 matrix. Perform PCA on to reduce the dimension from 10000 to K (using
 PCA for high dimensional data) and then perform LDA to one dimension. Plot the one
