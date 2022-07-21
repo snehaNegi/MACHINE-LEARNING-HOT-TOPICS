@@ -15,7 +15,7 @@ which gives the maximum separability ?
 
 
 
-[**2. Speech Spectogram**]
+[**2. Speech Spectogram**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/2.Speech%20Spectogram.ipynb)
 
 DataSet used: speech_music_classification
 
