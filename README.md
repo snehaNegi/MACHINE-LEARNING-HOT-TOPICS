@@ -1,11 +1,10 @@
 # MACHINE-LEARNING-HOT-TOPICS
-following is the link to the data set 
 
-http://leap.ee.iisc.ac.in/sriram/teaching/MLSP22/assignments/data/Data.tar.gz
+**1. PCA and LDA implementation**
 
-Copy and paste the above link in the browser with the underscore for MLSP 22
+DataSet used: emotion_classification
 
-Our Task:
+**Our Task:** 
 
 15 subject faces with happy/sad emotion are provided in the data. Each image is of
 100x100 matrix. Perform PCA on to reduce the dimension from 10000 to K (using
