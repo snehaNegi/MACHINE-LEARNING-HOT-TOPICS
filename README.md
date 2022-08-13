@@ -53,7 +53,7 @@ c Classify the test samples using the built classifiers and report the performan
 
 d Discuss the impact on the performance for different number of mixture components,diagonal versus full covariance ?
 
-[**4. SVM**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/3.%20GMM)
+[**4. Logistic Regression & regularisation**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/Logistic%20Regression%20with%20regularisation)
 
 DataSet used: movieReviews1000.txt
 
