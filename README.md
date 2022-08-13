@@ -52,3 +52,24 @@ b Train two GMM models with K-means initialization (for eachclass) separately ea
 c Classify the test samples using the built classifiers and report the performance interms of error rate (percentage of mis-classified samples) on the text data.
 
 d Discuss the impact on the performance for different number of mixture components,diagonal versus full covariance ?
+
+[**4. SVM**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/3.%20GMM)
+
+DataSet used: movieReviews1000.txt
+
+**Our Task:**
+
+a. Split the data into two subsets. One for training (first 3000reviews) and the otherfor testing (last 1000 reviews).
+
+b. Use TF-IDF features and train PCA (using the training data)to reduce the data to30 dimensions.
+c. Split the training data randomly into set of 2500 for model training and 500 forvalidation. 
+Train a logistic regression model.  Implement the stochastic gradientdescent algorithm by hand without using any tools.
+Show the loss value for each epoch on the training and validation dataset (for 20 epochs). 
+
+Test on the test data and report the performance in terms of review classificationaccuracy.
+Compare there performance for different choices - batch size [32,64,128],learning rate [1e-3,1e-2,1e-1]. Show the loss curves for each case.d Implement the logistic regression with L2 weight regularization. 
+Show the losscurves for regularization coefficient value of 1e−2, 1e−1 and 1. Do you see anyoverfitting/under-fitting for any of these choices. 
+Test on the test data and reportthe performance on the test set in terms of review classification accuracy.
+
+
+
