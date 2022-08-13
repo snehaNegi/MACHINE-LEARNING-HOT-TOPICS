@@ -62,6 +62,7 @@ DataSet used: movieReviews1000.txt
 a. Split the data into two subsets. One for training (first 3000reviews) and the otherfor testing (last 1000 reviews).
 
 b. Use TF-IDF features and train PCA (using the training data)to reduce the data to30 dimensions.
+
 c. Split the training data randomly into set of 2500 for model training and 500 forvalidation. 
 Train a logistic regression model.  Implement the stochastic gradientdescent algorithm by hand without using any tools.
 Show the loss value for each epoch on the training and validation dataset (for 20 epochs). 
