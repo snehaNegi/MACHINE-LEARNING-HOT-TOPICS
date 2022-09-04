@@ -43,11 +43,15 @@ A set of training and test examples of music and speech are provided.
 
 **Our Task:**
 
-a Generate spectrogram features - Use the log magnitude spectrogram as before witha 64 component magnitude FFT (NFFT). In this case, the spectrogram will havedimension 32 times the number of frames (using 25 ms with a shift of 10 ms).
+a Generate spectrogram features - Use the log magnitude spectrogram as before with a 64 component magnitude FFT (NFFT). In this case, the spectrogram will have dimension 32 times the number of frames (using 25 ms with a shift of 10 ms).
 
-b Train two GMM models with K-means initialization (for eachclass) separately eachwith 
+b Train two GMM models with K-means initialization (for eachclass) separately each with 
+
 (i) 2 mixtures with diagonal covariance, 
-(ii) 2 mixtures with full covariance and(iii) 5-mixture components with diagonal/full covariancerespectively on this data.Plot the log-likelihood as a function of the EM iteration.
+
+(ii) 2 mixtures with full covariance and
+
+(iii) 5-mixture components with diagonal/full covariancerespectively on this data.Plot the log-likelihood as a function of the EM iteration.
 
 c Classify the test samples using the built classifiers and report the performance interms of error rate (percentage of mis-classified samples) on the text data.
 
