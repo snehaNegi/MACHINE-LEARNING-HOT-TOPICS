@@ -35,7 +35,7 @@ entries of the sampled covariance matrix of the “whitenned” clean and noisy 
 features. Comment on use of whitenning when the data distribution has changed.
 (b) Repeat the above procedure by reversing the roles of clean and noisy files.
 
-[**3. GMM**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/3.%20GMM)
+[**3. GMM**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/3.%20GMM.ipynb)
 
 DataSet used: speech_music_classification
 
